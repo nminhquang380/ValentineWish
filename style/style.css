@@ -217,7 +217,7 @@ body {
   /* text-transform: uppercase; */
 }
 
-.wish h5 {
+.wish p {
   font-weight: lighter;
   font-size: 2rem;
   margin: 10px 0 0;
@@ -289,7 +289,7 @@ body {
     font-size: 2.3em;
   }
 
-  .wish h5 {
+  .wish p {
     font-size: 1.4rem;
   }
 
